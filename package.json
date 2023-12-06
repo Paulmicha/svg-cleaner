@@ -1,0 +1,14 @@
+{
+  "name": "svg-cleaner",
+  "version": "1.0.0",
+  "description": "Removes clip paths and groups from given SVG file(s).",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "jsdom": "^23.0.1",
+    "mkdirp": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^21.1.6"
+  }
+}
