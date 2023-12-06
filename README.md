@@ -11,5 +11,6 @@ Usage :
 ```sh
 git clone --depth 1 -b main https://github.com/Paulmicha/svg-cleaner.git
 cd svg-cleaner
+npm i
 node index.js '/path/to/the-folder/containing/the-svg-files'
 ```
